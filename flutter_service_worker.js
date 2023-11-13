@@ -72,7 +72,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "4e69b2869ac022e57005f1a563c5cc63
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8d2da563129b3e43c0b0ba749e63e208",
+"index.html": "2344c4bb73d2b695de37cb7409aa1631",
 "/": "30a4ee487a13951ff0f115332c4d8409",
 "ios/Pods.build/Release-iphonesimulator/Flutter.build/dgph": "d51a874fb4c1de788a046d48ed35fb3f",
 "ios/Pods.build/Release-iphonesimulator/path_provider_ios.build/dgph": "d51a874fb4c1de788a046d48ed35fb3f",
